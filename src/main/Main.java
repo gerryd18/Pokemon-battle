@@ -252,9 +252,8 @@ Scanner sc = new Scanner(System.in);
 
 	public static void main(String[] args) {
 		
-//		new Main();
-		int rand = (int) (Math.random() * (4-1))+1;
-		System.out.println(rand);
+		new Main();
+	
 	}
 
 }
